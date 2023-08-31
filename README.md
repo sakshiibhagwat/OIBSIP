@@ -1,1 +1,4 @@
 # OIBSIP
+I have completed my 2 tasks in Java Programming at Oasis Infobyte and created: 
+1.>> ONLINE RESERVATION SYSTEM that performs three operations such as:- login form,reservation form and cancellation form. In login form user enters the userid and password. In reservation form user fill his/her personal detail then basic train journey details, train name and PNR number will be alloted automatically as per the train number(among given options).Hence,the user is successfully registered. In cancellation form, the user needs to add the PNR number and hence user's form will be cancelled.
+2.>> ATM INTERFACE that performs five operations such as:- deposite,withdraw,transfer,transaction history and quit. After asking user to enter choice as per the five operations. It ask user to enter the ATM pin and then it performs the respective operation and if the pin is not correct it notifies the user. 
